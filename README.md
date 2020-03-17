@@ -26,3 +26,4 @@ pip install git+git://github.com/psbots/attribute.git#egg=attribute
 - [ ] Ablation-CAM ([paper](http://openaccess.thecvf.com/content_WACV_2020/papers/Desai_Ablation-CAM_Visual_Explanations_for_Deep_Convolutional_Network_via_Gradient-free_Localization_WACV_2020_paper.pdf))
 - [ ] Full-Grad ([paper](https://arxiv.org/abs/1905.00780))
 - [ ] Testing with Concept Activation Vectors (TCAV) ([paper](https://arxiv.org/abs/1711.11279) [code TF1.0](https://github.com/tensorflow/tcav))
+- [ ] others...
