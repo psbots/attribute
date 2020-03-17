@@ -10,7 +10,8 @@ pip install git+git://github.com/psbots/attribute.git#egg=attribute
 ```
 
 ## Examples
-
+![vanilla gradients](https://github.com/psbots/attribute/blob/master/res/vanilla.png)
+![integrated gradients](https://github.com/psbots/attribute/blob/master/res/integrated.png)
 [Notebook](https://github.com/psbots/attribute/blob/master/example.ipynb)
 
 
