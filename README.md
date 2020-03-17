@@ -11,7 +11,7 @@ pip install git+git://github.com/psbots/attribute.git#egg=attribute
 
 ## Examples
 
-[Notebook](http://github.com/psbots/attribute/example.ipynb)
+[Notebook](https://github.com/psbots/attribute/blob/master/example.ipynb)
 
 
 ## Implementations :
